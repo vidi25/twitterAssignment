@@ -11,7 +11,6 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-src/main/resources/application.conf
 
 # Scala-IDE specific
 .scala_dependencies
@@ -32,3 +31,4 @@ projectFilesBackup
 
 metastore_db/
 check*/
+*.conf
